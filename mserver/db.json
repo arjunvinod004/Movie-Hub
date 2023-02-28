@@ -1,0 +1,756 @@
+[
+    {
+        "id": 1,
+        "video": "https://www.youtube.com/embed/eOrNdBpGMv8",
+        "Title": "The Avengers",
+        "Year": "2012",
+        "Rated": "PG-13",
+        "Released": "04 May 2012",
+        "Runtime": "143 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Joss Whedon",
+        "Writer": "Joss Whedon, Zak Penn",
+        "Actors": "Robert Downey Jr., Chris Evans, Scarlett Johansson",
+        "Plot": "Loki, the adopted brother of Thor, teams-up with the Chitauri Army and uses the Tesseract's power to travel from Asgard to Midgard to plot the invasion of Earth and become a king. The director of the agency S.H.I.E.L.D., Nick Fury, sets in motion project Avengers, joining Tony Stark a.k.a. the Iron Man; Steve Rogers, a.k.a. Captain America; Bruce Banner, a.k.a. The Hulk; Thor; Natasha Romanoff, a.k.a. Black Widow; and Clint Barton, a.k.a. Hawkeye, to save the world from the powerful Loki and the alien invasion.",
+        "Language": "English, Russian, Hindi",
+        "Country": "United States",
+        "Awards": "Nominated for 1 Oscar. 38 wins & 80 nominations total",
+        "Poster": "https://c8.alamy.com/comp/FXEAGB/avengers-assemble-2012-directed-by-joss-whedon-and-starring-robert-FXEAGB.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "91%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "69/100"
+            }
+        ],
+        "Metascore": "69",
+        "imdbRating": "8.0",
+        "imdbVotes": "1,391,621",
+        "imdbID": "tt0848228",
+        "Type": "movie",
+        "DVD": "25 Sep 2012",
+        "BoxOffice": "$623,357,910",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 2,
+        "Title": "Captain America",
+        "video": "https://www.youtube.com/embed/JerVrbLldXw",
+        "Year": "1990",
+        "Rated": "PG-13",
+        "Released": "26 Jul 1991",
+        "Runtime": "97 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Albert Pyun",
+        "Writer": "Joe Simon, Jack Kirby, Stephen Tolkin",
+        "Actors": "Matt Salinger, Ronny Cox, Ned Beatty",
+        "Plot": "During World War II, a brave, patriotic American Soldier undergoes experiments to become a new supersoldier, \"Captain America.\" Racing to Germany to sabotage the rockets of Nazi baddie \"Red Skull\", Captain America winds up frozen until the 1990s. He reawakens to find that the Red Skull has changed identities and is now planning to kidnap the President of the United States.",
+        "Language": "English",
+        "Country": "United States, Yugoslavia",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYmRmYzA4NDItZmI3NS00NWIyLWIzZWEtNGIzZjZlYmY5MzE2XkEyXkFqcGdeQXVyMTEyNzgwMDUw._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "3.2/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "12%"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "3.2",
+        "imdbVotes": "14,274",
+        "imdbID": "tt0103923",
+        "Type": "movie",
+        "DVD": "30 Aug 2011",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 3,
+        "Title": "Wednesday",
+        "video": "https://www.youtube.com/embed/Di310WS8zLk",
+        "Year": "2022–",
+        "Rated": "TV-14",
+        "Released": "23 Nov 2022",
+        "Runtime": "N/A",
+        "Genre": "Comedy, Crime, Fantasy",
+        "Director": "N/A",
+        "Writer": "Alfred Gough, Miles Millar",
+        "Actors": "Jenna Ortega, Hunter Doohan, Percy Hynes White",
+        "Plot": "Follows Wednesday Addams' years as a student, when she attempts to master her emerging psychic ability, thwart and solve the mystery that embroiled her parents.",
+        "Language": "English",
+        "Country": "N/A",
+        "Awards": "8 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.4/10"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "8.4",
+        "imdbVotes": "219,407",
+        "imdbID": "tt13443470",
+        "Type": "series",
+        "totalSeasons": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 4,
+        "Title": "Minnal Murali",
+        "video": "https://www.youtube.com/embed/zAUAliz1TKA",
+        "Year": "2021",
+        "Rated": "TV-14",
+        "Released": "24 Dec 2021",
+        "Runtime": "158 min",
+        "Genre": "Action, Adventure, Comedy",
+        "Director": "Basil Joseph",
+        "Writer": "Arun Anirudhan, Justin Mathew",
+        "Actors": "Tovino Thomas, Guru Somasundaram, Aju Varghese",
+        "Plot": "An unusual event creates a lightning which in turns gives superhuman abilies to an ambitious tailor ,whose responsibility is now to protect his home village from the evil plans of the antagonist.",
+        "Language": "Malayalam",
+        "Country": "India",
+        "Awards": "9 wins & 14 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzllYTM0ZDgtZTk4NS00YjYzLTliNjktMjZmNTZmNGZlNzI4XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "75%"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "7.9",
+        "imdbVotes": "30,144",
+        "imdbID": "tt7268738",
+        "Type": "movie",
+        "DVD": "24 Dec 2021",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 5,
+        "Title": "Pulimurugan",
+        "video": "https://www.youtube.com/embed/_YcmenpZHX8",
+        "Year": "2016",
+        "Rated": "Not Rated",
+        "Released": "07 Oct 2016",
+        "Runtime": "161 min",
+        "Genre": "Action, Thriller",
+        "Director": "Vysakh",
+        "Writer": "Udaykrishnan",
+        "Actors": "Mohanlal, Jagapathi Babu, Kamalinee Mukherjee",
+        "Plot": "When a small village near a forest is under the threat of man eating tigers and a drug mafia, the villagers seek the help of an unstoppable force, a hunter invincible.",
+        "Language": "Malayalam, Tamil, Telugu",
+        "Country": "India",
+        "Awards": "14 wins & 3 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BODUyYThiZmEtZDhlYy00NWMyLWJlZDktNDcxNzE0M2VkMzlhXkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.7/10"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "6.7",
+        "imdbVotes": "8,114",
+        "imdbID": "tt5297256",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 6,
+        "Title": "Bheeshma Parvam",
+        "video": "https://www.youtube.com/embed/41GswFhjRWk",
+        "Year": "2022",
+        "Rated": "N/A",
+        "Released": "03 Mar 2022",
+        "Runtime": "144 min",
+        "Genre": "Action, Crime, Drama",
+        "Director": "Amal Neerad",
+        "Writer": "R.J. Murugan, Amal Neerad, Ravishankar P.T.",
+        "Actors": "Mammootty, Soubin Shahir, Sreenath Bhasi",
+        "Plot": "Michael helms his ancestral family in Kochi, inspiring fear and respect through his past. When a few younger members of the household find his power over their lives too aggravating, they join hands with foes to clamp down on him.",
+        "Language": "Malayalam",
+        "Country": "India",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTVmMDMwYWMtOGM1Ni00YmFiLTg4OGItMjEyYTQ3MDQ1MzVmXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.7/10"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "7.7",
+        "imdbVotes": "11,845",
+        "imdbID": "tt14002046",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 7,
+        "Title": "Lost",
+        "video": "https://www.youtube.com/embed/KTu8iDynwNc",
+        "Year": "2004–2010",
+        "Rated": "TV-14",
+        "Released": "22 Sep 2004",
+        "Runtime": "44 min",
+        "Genre": "Adventure, Drama, Fantasy",
+        "Director": "N/A",
+        "Writer": "J.J. Abrams, Jeffrey Lieber, Damon Lindelof",
+        "Actors": "Jorge Garcia, Josh Holloway, Naveen Andrews",
+        "Plot": "The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted tropical island.",
+        "Language": "English, Portuguese, Spanish, Arabic, French, Korean, German, Latin, Russian, Japanese",
+        "Country": "United States",
+        "Awards": "Won 10 Primetime Emmys. 113 wins & 397 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzhlY2E5NDUtYjJjYy00ODg3LWFkZWQtYTVmMzU4ZWZmOWJkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "80%"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "8.3",
+        "imdbVotes": "555,188",
+        "imdbID": "tt0411008",
+        "Type": "series",
+        "totalSeasons": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 8,
+        "Title": "Kantara",
+        "video": "https://www.youtube.com/embed/qGWJSY9UXZ0",
+        "Year": "2022",
+        "Rated": "N/A",
+        "Released": "30 Sep 2022",
+        "Runtime": "148 min",
+        "Genre": "Action, Adventure, Drama",
+        "Director": "Rishab Shetty",
+        "Writer": "Rishab Shetty",
+        "Actors": "Rishab Shetty, Kishore Kumar G., Achyuth Kumar",
+        "Plot": "It involves culture of Kambala and Bhootha Kola. A human and nature conflict where Shiva is a rebel who defends his village and nature. A death leads to war between villagers and evil forces. Will he be able to regain peace in the...",
+        "Language": "Kannada",
+        "Country": "India",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjQyNGI5OWEtZjI1Yy00NDVjLWE4MTAtMzRlNzU1NzM2OGVkXkEyXkFqcGdeQXVyMTA1NzEzOTU1._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "83%"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "8.6",
+        "imdbVotes": "80,448",
+        "imdbID": "tt15327088",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 9,
+        "Title": "Vikram",
+        "video": "https://www.youtube.com/embed/OKBMCL-frPU",
+        "Year": "2022",
+        "Rated": "N/A",
+        "Released": "03 Jun 2022",
+        "Runtime": "175 min",
+        "Genre": "Action, Crime, Thriller",
+        "Director": "Lokesh Kanagaraj",
+        "Writer": "Lokesh Kanagaraj, Rathna Kumar",
+        "Actors": "Kamal Haasan, Vijay Sethupathi, Fahadh Faasil",
+        "Plot": "A high-octane action film where a special investigator is assigned a case of serial Killings, he finds the case is not what it seems to be and leading down this path is only going to end in a war between everyone involved.",
+        "Language": "Tamil, Hindi, Telugu, Kannada, Malayalam",
+        "Country": "India",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMDRiOWNjYjUtMDI0ZC00MDMyLTkwZDItNTU5NWQ1NjEyNGYxXkEyXkFqcGdeQXVyMTIyNzY0NTMx._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "54%"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "8.4",
+        "imdbVotes": "59,168",
+        "imdbID": "tt9179430",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$1,770,000",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 10,
+        "Title": "Spider-Man: No Way Home",
+        "video": "https://www.youtube.com/embed/rt-2cxAiPJk",
+        "Year": "2021",
+        "Rated": "PG-13",
+        "Released": "17 Dec 2021",
+        "Runtime": "148 min",
+        "Genre": "Action, Adventure, Fantasy",
+        "Director": "Jon Watts",
+        "Writer": "Chris McKenna, Erik Sommers, Stan Lee",
+        "Actors": "Tom Holland, Zendaya, Benedict Cumberbatch",
+        "Plot": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "Nominated for 1 Oscar. 35 wins & 67 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.2/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "93%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "71/100"
+            }
+        ],
+        "Metascore": "71",
+        "imdbRating": "8.2",
+        "imdbVotes": "754,509",
+        "imdbID": "tt10872600",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$814,115,070",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 11,
+        "Title": "Thor: Love and Thunder",
+        "video": "https://www.youtube.com/embed/Go8nTmfrQd8",
+        "Year": "2022",
+        "Rated": "PG-13",
+        "Released": "08 Jul 2022",
+        "Runtime": "118 min",
+        "Genre": "Action, Adventure, Comedy",
+        "Director": "Taika Waititi",
+        "Writer": "Taika Waititi, Jennifer Kaytin Robinson, Stan Lee",
+        "Actors": "Chris Hemsworth, Natalie Portman, Christian Bale",
+        "Plot": "Thor enlists the help of Valkyrie, Korg and ex-girlfriend Jane Foster to fight Gorr the God Butcher, who intends to make the gods extinct.",
+        "Language": "English",
+        "Country": "Australia, United States",
+        "Awards": "9 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "63%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "57/100"
+            }
+        ],
+        "Metascore": "57",
+        "imdbRating": "6.3",
+        "imdbVotes": "331,006",
+        "imdbID": "tt10648342",
+        "Type": "movie",
+        "DVD": "08 Sep 2022",
+        "BoxOffice": "$343,256,830",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 12,
+        "Title": "Beast",
+        "video": "https://www.youtube.com/embed/0E1kVRRi6lk",
+        "Year": "2022",
+        "Rated": "N/A",
+        "Released": "13 Apr 2022",
+        "Runtime": "155 min",
+        "Genre": "Action, Comedy, Thriller",
+        "Director": "Nelson Dilipkumar",
+        "Writer": "Nelson Dilipkumar",
+        "Actors": "Joseph Vijay, Pooja Hegde, K. Selvaraghavan",
+        "Plot": "After a shopping mall in Chennai had been hijacked by terrorists who held the visitors as hostages, Veera Raghavan, a spy also trapped in the mall, decides to save the hostages by eliminating the terrorists.",
+        "Language": "Tamil",
+        "Country": "India",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTJiY2MxY2UtNzE3Yy00OGQxLTllNmMtZjIxZDg2YTFhOTM2XkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.2/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "68%"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "5.2",
+        "imdbVotes": "33,641",
+        "imdbID": "tt11301946",
+        "Type": "movie",
+        "DVD": "07 Oct 2022",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 13,
+        "Title": "K.G.F: Chapter 2",
+        "video": "https://www.youtube.com/embed/JKa05nyUmuQ",
+        "Year": "2022",
+        "Rated": "Not Rated",
+        "Released": "13 Apr 2022",
+        "Runtime": "168 min",
+        "Genre": "Action, Crime, Drama",
+        "Director": "Prashanth Neel",
+        "Writer": "Prashanth Neel",
+        "Actors": "Yash, Sanjay Dutt, Raveena Tandon",
+        "Plot": "In the blood-soaked Kolar Gold Fields, Rocky's name strikes fear into his foes. While his allies look up to him, the government sees him as a threat to law and order. Rocky must battle threats from all sides for unchallenged supre...",
+        "Language": "Kannada, Hindi",
+        "Country": "India",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNWRlYTAyZDQtZmQ5Yi00ZTUzLTljZDMtYjcwZTgyMDIwOGRiXkEyXkFqcGdeQXVyMTUwMDg3OTQy._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "46%"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "8.3",
+        "imdbVotes": "135,049",
+        "imdbID": "tt10698680",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$2,874,000",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 14,
+        "Title": "Avatar: The Way of Water",
+        "video": "https://www.youtube.com/embed/d9MyW72ELq0",
+        "Year": "2022",
+        "Rated": "PG-13",
+        "Released": "16 Dec 2022",
+        "Runtime": "192 min",
+        "Genre": "Action, Adventure, Fantasy",
+        "Director": "James Cameron",
+        "Writer": "James Cameron, Rick Jaffa, Amanda Silver",
+        "Actors": "Sam Worthington, Zoe Saldana, Sigourney Weaver",
+        "Plot": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "12 wins & 45 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "77%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "67/100"
+            }
+        ],
+        "Metascore": "67",
+        "imdbRating": "7.9",
+        "imdbVotes": "167,554",
+        "imdbID": "tt1630029",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 15,
+        "Title": "RRR",
+        "video": "https://www.youtube.com/embed/f_vbAtFSEc0",
+        "Year": "2022",
+        "Rated": "Not Rated",
+        "Released": "25 Mar 2022",
+        "Runtime": "187 min",
+        "Genre": "Action, Drama",
+        "Director": "S.S. Rajamouli",
+        "Writer": "Vijayendra Prasad, S.S. Rajamouli, Sai Madhav Burra",
+        "Actors": "N.T. Rama Rao Jr., Ram Charan Teja, Ajay Devgn",
+        "Plot": "A fictitious story about two legendary revolutionaries and their journey away from home before they started fighting for their country in the 1920s.",
+        "Language": "Telugu, English",
+        "Country": "India",
+        "Awards": "28 wins & 83 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "95%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "83/100"
+            }
+        ],
+        "Metascore": "83",
+        "imdbRating": "7.9",
+        "imdbVotes": "123,062",
+        "imdbID": "tt8178634",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$11,339,160",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 16,
+        "Title": "Pathonpatham Noottandu",
+        "video": "https://www.youtube.com/embed/7JUdNz9oM2s",
+        "Year": "2022",
+        "Rated": "N/A",
+        "Released": "16 Sep 2022",
+        "Runtime": "158 min",
+        "Genre": "Action, Drama, History",
+        "Director": "Vinayan",
+        "Writer": "Vinayan",
+        "Actors": "Siju Wilson, Kayadu Lohar, Anoop Menon",
+        "Plot": "Arattupuzha Velayudha Panicker, a 19th century fiery social reformer and his unswerving fight against the dominant caste oppressions by the upper classes.",
+        "Language": "Malayalam",
+        "Country": "India",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYmU0NTMyYjAtYmY4OC00MzdlLTg4OTItOWM3ZGVjNzY2MmExXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.0/10"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "7.0",
+        "imdbVotes": "1,351",
+        "imdbID": "tt13126492",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 17,
+        "Title": "Nna, Thaan Case Kodu",
+        "video": "https://www.youtube.com/embed/nv6B6VPzGoM",
+        "Year": "2022",
+        "Rated": "N/A",
+        "Released": "11 Aug 2022",
+        "Runtime": "138 min",
+        "Genre": "Comedy, Crime, Drama",
+        "Director": "Ratheesh Balakrishnan Poduval",
+        "Writer": "Ratheesh Balakrishnan Poduval",
+        "Actors": "Kunchacko Boban, Gayathrie, Rajesh Madhavan",
+        "Plot": "A reformed thief's fight for justice when an innocent act to defend himself places him in loggerheads with the high and mighty of society.",
+        "Language": "Malayalam",
+        "Country": "India",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTk0MGE4MTAtZTA2Ny00NjEzLWEyMDAtNmZhNzg5Y2VlOGRiXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "8.0/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "100%"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "8.0",
+        "imdbVotes": "4,541",
+        "imdbID": "tt14188930",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 18,
+        "Title": "Padavettu",
+        "Year": "2022",
+        "video": "https://www.youtube.com/embed/1ErBw6lcMSQ",
+        "Rated": "N/A",
+        "Released": "21 Oct 2022",
+        "Runtime": "145 min",
+        "Genre": "Action, Drama, Thriller",
+        "Director": "Liju Krishna",
+        "Writer": "Liju Krishna",
+        "Actors": "Nivin Pauly, Aditi Balan, Shammi Thilakan",
+        "Plot": "The coming of age drama portray the relentless pursuit of the layman, the oppressed section of society who is in a constant struggle and fight to reclaim their unique identity and rightful place in a world meant for all.",
+        "Language": "Malayalam",
+        "Country": "India",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3YjA0ZDAtNGFhOS00ZTA5LTk5MGUtZmM3MDhlOWQxYWE1XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.1/10"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "7.1",
+        "imdbVotes": "2,670",
+        "imdbID": "tt10518176",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id": 19,
+        "Title": "Raangi",
+        "video": "https://www.youtube.com/embed/fgXHthHVj-A",
+        "Year": "2022",
+        "Rated": "N/A",
+        "Released": "30 Dec 2022",
+        "Runtime": "121 min",
+        "Genre": "Action",
+        "Director": "M. Saravanan",
+        "Writer": "A.R. Murugadoss, M. Saravanan",
+        "Actors": "Lizzie Antony, Waqar Khan, Trisha Krishnan",
+        "Plot": "An online channel reporter, finds a fake Facebook account of her niece. She encounters a boy Aalim from Libya. The FBI on the other hand wants to bring Aalim under their custody using Thaiyal Nayagi and her niece as bait.",
+        "Language": "Tamil",
+        "Country": "India",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTg0OGFmNGEtZjhkZi00ZTViLWIyYjMtZjM2MGIyZTRhYjQxXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.0/10"
+            }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "6.0",
+        "imdbVotes": "154",
+        "imdbID": "tt10805970",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "id":20,
+        "Title": "Brahmastra Part One: Shiva",
+        "video":"https://www.youtube.com/embed/BUjXzrgntcY",
+        "Year": "2022",
+        "Rated": "N/A",
+        "Released": "09 Sep 2022",
+        "Runtime": "167 min",
+        "Genre": "Action, Adventure, Fantasy",
+        "Director": "Ayan Mukerji",
+        "Writer": "Hussain Dalal, Ayan Mukerji",
+        "Actors": "Amitabh Bachchan, Ranbir Kapoor, Alia Bhatt",
+        "Plot": "This is the story of Shiva who sets out in search of love and self-discovery. During his journey, he has to face many evil forces that threaten our existence.",
+        "Language": "Hindi",
+        "Country": "India",
+        "Awards": "8 nominations",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZjY2MmI1ZWItNmU0Yy00NTdkLWJiYmQtNzFlZWNlMzkxZTZjXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.5/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "52%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "57/100"
+            }
+        ],
+        "Metascore": "57",
+        "imdbRating": "5.5",
+        "imdbVotes": "105,848",
+        "imdbID": "tt6277462",
+        "Type": "movie",
+        "DVD": "07 Dec 2022",
+        "BoxOffice": "$7,839,108",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    }
+]

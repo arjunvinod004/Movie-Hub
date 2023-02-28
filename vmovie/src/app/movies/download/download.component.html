@@ -1,0 +1,56 @@
+<div class="p8" *ngIf="downitems.length==0">
+<div class="container border border-light m-3 p-2">
+    <div class="row text-center">
+        <div class="col">
+            <img src="https://thumbs.gfycat.com/EasygoingScientificFunnelweaverspider-size_restricted.gif" width="200px" alt="">
+            <h3 class="mt-2">your watchlater is empty</h3>
+            <button routerLink="/" class="btn btn-primary mt-3"><i class="fa-solid fa-floppy-disk"></i></button>
+        </div>
+    </div>
+</div>
+</div>
+
+<!-- <h1 style="margin-top: 40px;">{{downitems.id}}</h1> -->
+<section class="py-5 mt-5">
+    <div class="container px-4 px-lg-5 my-5 ">
+        <div class="row gx-4 gx-lg-5 align-items-center">
+            <div class="col-md-6"><img style="height: 350px; width:250px;" class="card-img-top mb-5 mb-md-0" [src]="downitems.Poster" alt="..." /></div>
+            <div style="font-family: 'Roboto Condensed', sans-serif;" class="col-md-6 text-dark">
+                <div class="small mb-1">{{downitems.id}}</div>
+                <h1 class="display-5 fw-bolder">{{downitems.Title}}</h1>
+                <div class="fs-5 mb-5">
+                    <h5 class="text-decoration">{{downitems.Year}}</h5>
+                    <h5>{{downitems.Genre}}</h5>
+                    <h5 class="">{{downitems.imdbRating}}</h5>
+                    <h5>{{downitems.imdbVotes}}</h5>
+                    <br><br>
+                    <button class="btn btn-success" data-bs-toggle="modal" data-bs-target="#exampleModal">download:2GB</button>               
+                 </div>
+                
+             
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog " role="document">
+      <div class="modal-content bg-dark">
+        <div class="modal-header ">
+          <h5 class="modal-title" id="exampleModalLabel">movie downloading...</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <img  style="width: 450px;" src="https://thumbs.gfycat.com/RareLoathsomeLeafbird-max-1mb.gif" alt="">
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
+        </div>
+      </div>
+    </div>
+  </div>
+

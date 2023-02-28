@@ -1,0 +1,39 @@
+.img-fluid:hover{
+    border: 3px solid white;    
+
+    
+}
+.img-fluid{
+    width: 50%;
+}
+#boxx{
+    margin-bottom: 300px;
+    margin-top: 100px;
+}
+.details{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.card{
+    height: 30%;
+}
+
+
+#hi{
+    margin-top: 2%; color: white; background-color: rgb(56, 55, 55); width: 100%;
+}
+
+.border-light{
+    margin-top: -50px;
+}
+
+img{
+    height: 350px;
+    width: 25px;
+}
+button:hover{
+    background-color: black;
+}

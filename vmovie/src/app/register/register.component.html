@@ -1,0 +1,50 @@
+
+<section class="vh-100">
+    <div class="p5">
+    <div class="container py-5 ">
+      <div class="row d-flex align-items-center justify-content-center h-100">
+        <div class="col-md-8 col-lg-7 col-xl-6">
+          <img src="https://img.lovepik.com//photo/40010/8993.jpg_300.jpg"
+            class="img-fluid" alt="Phone image">
+        </div>
+        <div class="col-lg-6 mb-5 mb-lg-0 ">
+             <!-- Email input -->
+
+          <form [formGroup]="registerform">
+           
+            <div style="width: 250px;" class="form-outline mb-4">
+              <input formControlName="uname" type="text" id="reg_uname" placeholder="username" name="userName" class="form-control " />
+              <!-- <label class="form-label" for="form1Example13">Email address</label> -->
+            </div>
+  
+            <!-- Password input -->
+            <div style="width: 250px;" class="form-outline mb-4">
+              <input formControlName="pswd" type="password" id="reg_pswd" placeholder="password" name="pswd" class="form-control" />
+              <!-- <label class="form-label" for="form1Example23">Password</label> -->
+            </div>
+            <!-- mobile number -->
+            <div style="width: 250px;" class="form-outline mb-4">
+                <input formControlName="mobilenum" type="mobilenumber" id="mobile_num" placeholder="mobilenumber" name="mob" class="form-control" />
+                <!-- <label class="form-label" for="form1Example23">Password</label> -->
+              </div>
+  
+            <div style="float: left;" class="d-flex justify-content-around align-items-center mb-4">
+               
+           
+              <!-- <a href="#!">Forgot password?</a> -->
+              <a routerLink="../login">Sign in</a>
+            </div>
+            <br> <br>
+  
+            <!-- Submit button -->
+            <button (click)="register()" type="submit" class="btn btn-primary btn-lg btn-block">Register</button>
+  
+           
+  
+          
+          </form>
+        </div>
+      </div>
+    </div>
+</div>
+  </section>

@@ -1,0 +1,40 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;1,100;1,300;1,400;1,700;1,900&family=Open+Sans:wght@300;500&family=Oswald:wght@200;300;400;500&family=Poppins:ital,wght@0,600;1,100;1,300&family=Source+Sans+Pro:ital,wght@1,300;1,400;1,600&display=swap');
+body{
+    font-family: 'Open Sans', sans-serif;
+
+   background-color: rgb(86, 84, 84);
+   background: url('https://wallpaperaccess.com/full/34916.jpg');
+   background-attachment: fixed;
+   background-size: cover;
+}
+
+p{
+    color: beige;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1;
+
+
+}
+.p1{
+    margin-top: 150px;
+}
+.p2{
+    margin-top: 150px;
+}
+.p5{
+    margin-top: 130px;
+}
+.p6{
+    margin-top: 140px;
+}
+.p7{
+    margin-top: 130px;
+}
+.p8{
+    margin-top: 140px;
+}

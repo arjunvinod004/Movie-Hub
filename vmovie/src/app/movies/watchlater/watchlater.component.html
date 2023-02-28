@@ -1,0 +1,87 @@
+<div class="p2">
+<div class="container border border-light m-3 p-2" *ngIf="errmsg">
+    <div class="row text-center">
+        <div class="col">
+            <img src="https://cdn.dribbble.com/users/1753953/screenshots/3818675/animasi-emptystate.gif" width="200px" alt="">
+            <h3 class="mt-2">your watchlater is empty</h3>
+            <button routerLink="/" class="btn btn-primary mt-3"><i class="fa-solid fa-floppy-disk"></i></button>
+        </div>
+    </div>
+</div>
+</div>
+
+<!-- content -->
+
+<!-- <section class="py-5">
+    <div class="container px-4 px-lg-5 mt-5">
+        <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+            <div class="col mb-5" *ngFor="let movie of watchlater" >
+              
+                <div class="card h-100 bg-dark text-light">
+                    <-- Product image-->
+                    <!-- <img class="card-img-top" [src]="movie.Poster" alt="..." /> -->
+                    <!-- Product details-->
+                    <!-- <div class="card-body p-4">
+                        <div class="text-center"> -->
+                            <!-- Product name-->
+                            <!-- <h5 class="fw-bolder">{{movie.id}}</h5>
+                            <h5 class="fw-bolder">{{movie.Title}}</h5>
+                            <h6 class="fw-bolder"> year:{{movie.Year}}</h6> 
+                          
+                          <h6 class="fw-bolder">category:{{movie.Genre}}</h6>
+                          <h6 class="fw-bolder">release:{{movie.Released}}</h6>
+
+                          <h6 class="fw-bolder">rating:{{movie.imdbRating}}</h6>
+                          <h6 class="fw-bolder">votes:{{movie.imdbVotes}}</h6>
+                          <h6 class="fw-bolder">language:{{movie.Language}}</h6> -->
+                            <!-- Product price-->
+                            $
+                        <!-- </div>
+                    </div> -->
+                    <!-- Product actions-->
+                    <!-- <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                         <div class="text-center">
+                            <button (click)="adddownload(movie)"  class="btn btn-primary me-3"><i class="fa-solid fa-download"></i> Download</button> 
+                            <br> <br>
+                            <button (click)="deletewatch(movie)" class="btn btn-danger me-2"  ><i class="fa-solid fa-trash"></i>Delete</button>
+                    </div> 
+                </div>
+             </div>
+            </div>
+            </div>
+            </div>
+        </section>  -->
+
+
+
+        <div class="container">
+            <div class="row" *ngFor="let movie of watchlater">
+                <div class="col-1"></div>
+                <div class="col-5" >
+                    <img  [src]="movie.Poster" class="img-fluid rounded-start" alt="..." style="border-radius: 10px; margin: 10px; height: 250px;"> 
+                    
+                </div>
+                <div style="margin-top:20px;" class="col-5">
+                    
+                    <p class="card-text text-dark"><b>Title</b>: {{movie.Title}} <br>
+                        <b> year</b>: {{movie.Year}} <br>
+                         <b>Released</b> : {{movie.Released}} <br>
+                        <b> imdbRating</b> : {{movie.imdbRating}} <br>
+                       
+                        <b> Language:</b>{{movie.Language}} <br>
+                      
+                        
+                        <div  style="float:left" class="vtpunda">
+                            <button (click)="adddownload(movie)"  class="btn btn-primary me-3"><i class="fa-solid fa-download"></i> Download</button> 
+                            <button (click)="deletewatch(movie)" class="btn btn-danger me-2"  ><i class="fa-solid fa-trash"></i>Delete</button>
+                    </div> 
+                        
+                </div>
+                <div class="col-1"></div>
+            </div>
+          
+         
+             </div>
+
+
+

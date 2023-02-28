@@ -1,0 +1,68 @@
+<!-- <pre>{{allmovies}}</pre> -->
+
+
+<div  id="image" class="mt-2">
+ <div class="row">
+    <div class="col-4"></div>
+    <div class="col-4"><h1 style="text-align: center; color: rgba(237, 237, 240, 0.874); margin-top: 300px;  font-size: 17px;">Well, Just after completing the movie, the words that come out of your mouth are what describe the movie.
+  <br>  -- Arjun</h1>
+  <br/>
+ 
+    </div>
+    <div class="col-4"></div>
+ </div>   
+
+</div>
+
+<section class="py-5">
+    <div class="p1">
+    <div class="container px-4 px-lg-5 mt-5">
+       
+        <div style="margin-top: -160px;" class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+            <div *ngFor="let movie of allmovies | filter: searchterm : 'Title' " class="col mb-5" >
+               
+
+                
+                <div  class="card h-100 bg-dark text-light  ">
+                     <!-- Product image -->
+                    <img class="card-img-top" [src]="movie.Poster" alt="..." />
+                    <!-- Product details -->
+                    <div class="card-body p-4">
+                        <div class="text-center">
+                            
+                          <h6 class="fw-bolder">id:{{movie.id}}</h6>
+                            <h6 class="fw-bolder">Title:{{movie.Title}}</h6>
+                          
+                          <h6 class="fw-bolder"> year:{{movie.Year}}</h6> 
+                          
+                          <!-- <h6 class="fw-bolder">category:{{feat.Genre}}</h6> -->
+                          <h6 class="fw-bolder">release:{{movie.Released}}</h6>
+
+                          <h6 class="fw-bolder">rating:{{movie.imdbRating}}</h6>
+                          <!-- <h6 class="fw-bolder">votes:{{movie.imdbVotes}}</h6>
+                          <h6 class="fw-bolder">language:{{movie.Language}}</h6> -->
+                        
+                          
+                           
+                        </div>
+                    </div>
+                     <!-- Product actions -->
+                    <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                        <div class="text-center">
+                            <button (click)="savetowatchlater(movie)" class="btn btn-primary mt-auto"><i class="fa-solid fa-bookmark"></i> watch later</button> 
+                            <br/> <br/>
+                            <button (click)="know(movie)" class="btn btn-primary mt-auto "><i class="fa-solid fa-eye"></i> know more</button> 
+                            
+                    </div>
+                </div>
+             </div>
+            </div>
+            </div>
+            </div>
+        </div>
+        </section> 
+
+
+        
+
+       
